@@ -3,6 +3,7 @@
 ## Projects
 
 - [qiita_search](/qiita_search/)
+- [codelab_first_app](/codelab_first_app/)
 
 ## Command
 
@@ -11,7 +12,7 @@
 flutter createの後に-eを付ける事で最小構成のプロジェクトを作成する事ができます。
 
 ```shell
-flutter create -e [project_name]
+flutter create -e [project_name] --platforms=ios,android
 ```
 
 - [XユーザーのAndrea Bizzotto 💙さん: 「Want to create an "empty" Flutter project without all the boilerplate code? Then simply pass a "-e" flag on the command line. Example: flutter create -e test_app This will generate minimal pubspec.yaml and main.dart files (without any comments). 👇 https://t.co/HqsCSdfNZn」 / X](https://x.com/biz84/status/1663204152032231425)
