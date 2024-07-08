@@ -10,6 +10,9 @@
 - [testing_app](/testing_app/)
   - [Flutter アプリのテスト方法](https://codelabs.developers.google.com/codelabs/flutter-app-testing?hl=ja#0)
     - routing with go_router, tests; unit test, widget test, perf test
+- [google_maps](/google_maps/)
+  - [Flutter アプリに Google マップを追加する  |  Google Codelabs](https://codelabs.developers.google.com/codelabs/google-maps-in-flutter?hl=ja#0)
+    - google_maps_flutter, http, json_serializable
 
 ## Command
 
