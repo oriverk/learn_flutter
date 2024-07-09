@@ -9,7 +9,7 @@ A new Flutter project.
   - [【Flutter】環境ごとのAPIキーをiOS/Androidネイティブ側に設定する【Google Maps API】](https://zenn.dev/altiveinc/articles/flutter-set-native-api-keys-per-env)
 
 <p align="center">
-  <img src="images/map.webp" alt="map.webp" width="350" />
+  <img src="/google_maps/images/map.webp" alt="map.webp" width="350" />
 </p>
 
 ## memos

@@ -3,11 +3,11 @@
 A new Flutter project.
 
 <p align="center">
-  <img src="/images/ss1.webp" alt="ss" width="350">
+  <img src="/qiita_search/images/ss1.webp" alt="ss" width="350">
 </p>
 
 <p align="center">
-  <img src="/images/ss2.webp" alt="ss" width="350">
+  <img src="/qiita_search/images/ss2.webp" alt="ss" width="350">
 </p>
 
 ## Acknowledgements

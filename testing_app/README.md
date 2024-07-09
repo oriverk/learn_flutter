@@ -7,7 +7,7 @@ A new Flutter project.
 - [Flutter アプリのテスト方法](https://codelabs.developers.google.com/codelabs/flutter-app-testing?hl=ja#0)
 
 <p align="center">
-  <img src="/images/image.gif" alt="image" width="350" />
+  <img src="/testing_app/images/image.gif" alt="image" width="350" />
 </p>
 
 ## commands

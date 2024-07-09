@@ -8,5 +8,5 @@ A new Flutter project.
   - [DartPad Advanced version](https://dartpad.dev/?id=e7076b40fb17a0fa899f9f7a154a02e8)
 
 <p align="center">
-  <img src="/images/app.gif" alt="app.gif" width="350">
+  <img src="/codelab_first_app/images/app.gif" alt="app.gif" width="350">
 </p>
