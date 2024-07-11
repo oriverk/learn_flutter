@@ -2,6 +2,8 @@
 
 ## Projects
 
+### 写経
+
 - [qiita_search](/qiita_search/)
   - [いちから始めるFlutterモバイルアプリ開発](https://zenn.dev/heyhey1028/books/flutter-basics)
     - http, webview_flutter
@@ -16,6 +18,23 @@
 - [mdc101_flutter](/mdc101_flutter/)
   - [MDC-101 Flutter: マテリアル コンポーネントの基本](https://codelabs.developers.google.com/codelabs/mdc-101-flutter?hl=ja#0)
   - backdrops, custom fonts, gridview
+- [animated_responsive_layout](/animated_responsive_layout/)
+  - [マテリアル 3 でアニメーション化されたレスポンシブ アプリ レイアウトを作成する](https://codelabs.developers.google.com/codelabs/flutter-animated-responsive-layout?hl=ja#0)
+- [borring_to_beautiful](/boring_to_beautiful/)
+  - [Flutter アプリを「退屈なアプリ」から「見栄えの良いアプリ」に変える](https://codelabs.developers.google.com/codelabs/flutter-boring-to-beautiful?hl=ja#0)
+
+<!-- ### 模写
+
+- X (Twitter)
+  - List、画像撮影・投稿
+- Instagram
+  - List、画像OR動画撮影・投稿・加工
+- SALKO
+  - GPS情報、Fitness情報
+- デジタル庁アプリ
+  - N列グリッドベース
+- PayPay様アプリ
+  - Wiget多め -->
 
 ## Command
 
@@ -38,6 +57,7 @@ flutter run -d [device_id]
 
 ### Flutter run key commands
 
+```md
 - r: Hot reload.
 - R: Hot restart.
 - v: Open Flutter DevTools.
@@ -62,3 +82,4 @@ flutter run -d [device_id]
 - d: Detach (terminate "flutter run" but leave application running).
 - c: Clear the screen
 - q: Quit (terminate the application on the device).
+```
