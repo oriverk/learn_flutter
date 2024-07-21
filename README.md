@@ -25,6 +25,9 @@
 - [material_motion_flutter](/material_motion_flutter/)
   - [Flutter 用のマテリアル モーションで美しい移行を作成する](https://codelabs.developers.google.com/codelabs/material-motion-flutter?hl=ja#0)
   - [memo in material_motion_flutter/README](/material_motion_flutter/README.md)
+- [battery_level_app](/battery_level_app/)
+  - [Platform-specific code | Flutter](https://docs.flutter.dev/platform-integration/platform-channels)
+    - [電池残量と充電状態を監視する  |  App quality  |  Android Developers](https://developer.android.com/training/monitoring-device-state/battery-monitoring?hl=ja#kotlin)
 
 <!-- ### 模写
 
@@ -86,3 +89,18 @@ flutter run -d [device_id]
 - c: Clear the screen
 - q: Quit (terminate the application on the device).
 ```
+
+## refernces
+
+### pub
+
+hoge
+
+### flutter documents
+
+hoge
+
+### vscode extensions
+
+- [dart-import - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=luanpotter.dart-import)
+  - Fix Dart/Flutter's imports
