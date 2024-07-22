@@ -28,6 +28,10 @@
 - [battery_level_app](/battery_level_app/)
   - [Platform-specific code | Flutter](https://docs.flutter.dev/platform-integration/platform-channels)
     - [電池残量と充電状態を監視する  |  App quality  |  Android Developers](https://developer.android.com/training/monitoring-device-state/battery-monitoring?hl=ja#kotlin)
+- [good_to_know_flutter_with_firebase](/gtk_flutter/)
+  - [Firebase for Flutter を理解する](https://firebase.google.com/codelabs/firebase-get-to-know-flutter?hl=ja#0)
+  - [codelabs/firebase-get-to-know-flutter at main · flutter/codelabs](https://github.com/flutter/codelabs/tree/main/firebase-get-to-know-flutter)
+    - [firebase/flutterfire: 🔥 A collection of Firebase plugins for Flutter apps.](https://github.com/firebase/flutterfire)
 
 <!-- ### 模写
 
